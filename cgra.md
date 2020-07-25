@@ -4,7 +4,7 @@
 - [Survey](#survey)
 - [CGRA architecutres](#arch)
 - [CGRA compilation](#compilation)
-- [Other Releated works](#releated)
+- [Other Releated works](#releated works)
 - [Tools](#tools)
 	
 
