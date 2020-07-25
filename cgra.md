@@ -12,7 +12,7 @@
 
 ## Definition
 Coarse-Grained Reconfigurable Architecture
-
+-[Hycube](https://github.com/ECO-lab-nus/reading_resource/blob/master/hycube.pdf)
 
 ## Survey
 - Threat Detection and Investigation with System-level Provenance Graphs: A Survey. Zhenyuan, et al. arxiv'2020
