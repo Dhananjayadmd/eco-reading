@@ -17,7 +17,8 @@ Coarse-Grained Reconfigurable Architecture
 ## Survey
 - Threat Detection and Investigation with System-level Provenance Graphs: A Survey. Zhenyuan, et al. arxiv'2020
 
-## Arch
+## Architectures
+
 ## Compilation
 
 ## Releated Works
