@@ -10,4 +10,8 @@ Enjoy!
   - [Other Releated works](cgra.md#releated-works)
   - [Tools](cgra.md#tools)
 - [Machine Learning Compilation](mlc.md)
+  - [Survey](mlc.md#survey)
+  - [General Papers](mlc.md#general-papers)
+  - [Accelerator Compilation](mlc.md#accelerator-compilation)
+  - [Accelerators](mlc.md#accelerators)	
 
