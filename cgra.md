@@ -2,7 +2,7 @@
 ## Table of contents
 - [Definition](#definition)
 - [Survey](#survey)
-- [CGRA architecutres](#arch)
+- [CGRA architecutres](#architectures)
 - [CGRA compilation](#compilation)
 - [Other Releated works](#releated-works)
 - [Tools](#tools)
@@ -24,8 +24,7 @@ Coarse-Grained Reconfigurable Architecture
 ## Releated Works
 
 ## Tools
-#### Forensic Analysis
-- Backtracking intrusions. King, et al. SOSP'2003
+
 
 
 
