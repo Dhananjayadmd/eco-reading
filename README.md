@@ -3,5 +3,11 @@ Here list some papers and tools which you might be interested if you want to get
 Enjoy!
 ## Table of contents
 - [Reconfigurable Architecture](cgra.md)
+  - [Definition](cgra.md#definition)
+  - [Survey](cgra.md#survey)
+  - [CGRA architecutres](cgra.md#architectures)
+  - [CGRA compilation](cgra.md#compilation)
+  - [Other Releated works](cgra.md#releated-works)
+  - [Tools](cgra.md#tools)
 - [Machine Learning Compilation](mlc.md)
 
