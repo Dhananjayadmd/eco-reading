@@ -1,9 +1,9 @@
-# Audit Log Analysis
+# Reconfigurable Architecture
 ## Table of contents
 - [Definition](#definition)
 - [Survey](#survey)
-- [Generation](#generation)
-- [SIEM](#siem)
+- [CGRA architecutres](#generation)
+- [CGRA compilation](#siem)
 	- [Forensic Analysis](#forensic-analysis)
 	- [Attack Detection](#attack-detection)
 - [Limitations](#limitations)
