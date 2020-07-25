@@ -4,7 +4,7 @@
 - [General Papers](#general-papers)
 - [Accelerator Compilation](#accelerator-compilation)
 - [Accelerators](#accelerators)	
-## survey
+## Survey
 
 ## General Papers
 
