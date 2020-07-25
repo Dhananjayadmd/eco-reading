@@ -19,7 +19,7 @@ Coarse-Grained Reconfigurable Architecture
 
 ## Architectures
 Hycube Paper
--[Hycube](https://github.com/ECO-lab-nus/reading_resource/blob/master/hycube.pdf)
+-[`ptivate][Hycube](https://github.com/ECO-lab-nus/reading_resource/blob/master/hycube.pdf)
 
 ## Compilation
 
